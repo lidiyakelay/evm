@@ -118,6 +118,7 @@ html,body{height: 100%;}
     margin-left: -42px;
     background: #396455;
 }
+.motto{color: #bda05c;text-transform: capitalize;margin-bottom:10px;}
 .section-header p{color: #bda05c;text-transform: capitalize;margin-bottom:10px;}
 .section-header h2 span,.section-header p span{text-transform: lowercase;}
 
@@ -251,10 +252,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 .welcome-hero-txt{text-align: center;padding:290px 0 372px;}
 .welcome-hero-txt h2 {
     font-size: 42px;
-    color: #BDA05C;
+    color: #396455;
     font-weight: 700;
     text-transform: uppercase;
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 .welcome-hero {
     position: relative;
